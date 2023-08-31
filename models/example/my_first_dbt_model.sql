@@ -1,5 +1,9 @@
+dbt run -s my_first_dbt_model
+
+dbt run -s my_second_dbt_model
 
 /*
+
     Welcome to your first dbt model!
     Did you know that you can also configure models directly within SQL files?
     This will override configurations stated in dbt_project.yml
